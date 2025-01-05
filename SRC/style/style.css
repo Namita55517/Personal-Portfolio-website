@@ -984,7 +984,7 @@ header.scrolled {
 }
 
 .skills-main .skills-section .skills-group-row .css .progress-per {
-	width: 60%;
+	width: 55%;
 }
 
 .skills-main .skills-section .skills-group-row .js .progress-block {
@@ -992,15 +992,15 @@ header.scrolled {
 }
 
 .skills-main .skills-section .skills-group-row .js .progress-per {
-	width: 50%;
+	width: 40%;
 }
 
 .skills-main .skills-section .skills-group-row .python .progress-block {
-	margin-left: 55%;
+	margin-left: 80%;
 }
 
 .skills-main .skills-section .skills-group-row .python .progress-per {
-	width: 55%;
+	width: 80%;
 }
 
 .skills-main .skills-section .skills-group-row .communication .progress-block {
